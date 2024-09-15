@@ -1,0 +1,24 @@
+<html>
+<body>
+<table>
+  <tr>
+    
+    <th colspan="4">型号</th>
+    <th rowspan="2">编码</th>
+   
+    <th rowspan="2">内部 <br> 编码</th>
+    <th rowspan="2">极数</th>
+    <th rowspan="2">接线方式 </th>
+    <th rowspan="2">额定电流 <br> (A)</th>
+    <th rowspan="2">动作 曲线</th>
+   <th rowspan="2">电源 方式</th>
+   <th rowspan ="2">重量(g)</th>
+    </tr>
+  <tr>
+    <th colspan="4">编码</th>
+     <th></th>
+  </tr>
+</table>
+
+</body>
+</html>
