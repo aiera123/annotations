@@ -1,0 +1,1 @@
+51/J-WEB71-74_1.jpg	[{"transcription": "型号", "points": [[2, 0], [299, 0], [299, 19], [2, 19]], "difficult": false}, {"transcription": "代码", "points": [[0, 21], [146, 21], [146, 39], [0, 39]], "difficult": false}, {"transcription": "盘径d", "points": [[143, 22], [303, 22], [303, 44], [143, 44]], "difficult": false}]
